@@ -1,0 +1,17 @@
+#root{
+    --primary-box-sadow: rgb(28 28 28 / 8%)0px 8px 2px;
+    --collection-sadow: rgb(0 0 0/ 8%)0px 3px 12px;
+    --border-white: rgb(232,232,232);
+    --primary-bg:rgb(255,255,255);
+    --zomato-gray:#828282;
+    --gray:#a8a2a2;
+    --zomato-red:#fc0808;
+    --inactive-text:#696969;
+    --filter-text:#9C9C9C;
+    --inactive-color:#f8f8f8;
+    --heading-text:#1c1c1c;
+    --tag-red:#d92662;
+    --tag-blue:#256fef;
+    --tag-green:#267e3e;
+    --subtitle-text:#363636;
+}
